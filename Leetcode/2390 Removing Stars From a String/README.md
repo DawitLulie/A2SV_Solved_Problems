@@ -11,6 +11,7 @@
 <li>Remove the closest <strong>non-star</strong> character to its left, as well as remove the star itself.</li>
 </ul>
 
+
 <p>Return the string after <strong>all stars have been removed</strong>.</p>
 
 <p><strong>Note:</strong></p>
