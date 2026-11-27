@@ -6,7 +6,6 @@
 
 <p>In one operation, you can:</p>
 
-
 <ul>
 <li>Choose a star in <code>s</code>.</li>
 <li>Remove the closest <strong>non-star</strong> character to its left, as well as remove the star itself.</li>
